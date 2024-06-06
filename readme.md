@@ -1,3 +1,21 @@
-Hello. Welcome
-i'm upload to Beakjoon Code problem
-i hope it's useful for you
+# 백준 솔루션 모음
+
+## 소개
+
+- 알고리즘 공부를 위해서 온라인 알고리즘 서비스인 백준에서 풀었던 문제르르 모아두었습니다.
+- 주 언어는 파이썬과 자바를 주로 사용하였지만, 기본적인 알고리즘의 틀로 본다면, 다른 언어에서도 문제 없이 구현할 수 있다고 생각합니다.
+
+## 프로젝트 구조
+
+- Java : 자바 코드 모음
+- Python : 파이썬 코드 모음
+
+## 환경
+
+- JDK 11 이상
+- Python 3.9 이상
+
+## 이동
+
+- https://www.acmicpc.net/
+- https://solved.ac/
